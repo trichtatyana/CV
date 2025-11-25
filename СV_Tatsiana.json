@@ -1,0 +1,44 @@
+﻿{
+  "name": "Tatsiana",
+  "secondname": "Trych",
+  "age": 45,
+  "marriage": true,
+  "e-mail": "trich.tatyana@gmail.com",
+  "github": "https://github.com/trichtatyana",
+  "phonenumber": "+33652203530",
+  "address": {
+    "country": "France",
+    "city": "Annecy",
+    "zip": "74000",
+    "street": "Fretes"
+  },
+  "objective": "Ищу возможность развивать навыки в области ручного и автоматизированного тестирования программных продуктов.",
+  "skills": {
+    "manual_testing": ["Создание и выполнение тест-кейсов", "Функциональное тестирование"],
+    "automation_testing": null,
+    "api_testing": ["Postman"],
+    "databases": ["SQL (основы, создание простых запросов)"],
+    "tools": ["Git"],
+    "os": ["Windows"]
+  },
+  "education": {
+    "degree": "Course 'Software Testing Engineer. Basic level'",
+    "institution": "Belhard Академия",
+    "dates": "Сентябрь 2025",
+    "description": "Курс, охватывающий основы ручного тестирования, создание тест-кейсов, работу с баг-трекинговыми системами."
+  },
+  "languages": {
+    "russian": "родной",
+    "english": "средний (чтение технической документации, базовое общение)",
+    "french": "продвинутый (свободное чтение и общение)"
+  },
+  "personal_traits": [
+    "Внимательность к деталям",
+    "Ответственность и самостоятельность",
+    "Желание развиваться в области тестирования",
+    "Готовность к обучению и освоению новых технологий"
+  ],
+  "hobbies": [
+    "Чтение книг по тестированию и программированию"
+  ]
+}
